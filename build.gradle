@@ -9,7 +9,7 @@ plugins {
 group = 'org.cloudfoundry.samples.music'
 
 java {
-    sourceCompatibility = '17'
+    sourceCompatibility = '8'
 }
 
 repositories {
